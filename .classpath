@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="HelloWorldApp/src"/>
+	<classpathentry kind="src" path="Tutorial/src"/>
+	<classpathentry kind="lib" path="HelloWorldApp/dist/HelloWorldApp.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Wendell/Downloads/json-simple-1.1.jar/json-simple-1.1.jar"/>
+	<classpathentry kind="output" path="HelloWorldApp/build/classes"/>
+</classpath>
