@@ -9,7 +9,7 @@ package tutorial;
  *
  * @author Wendell
  */
-public class Tutorial {
+public class TutorialMain {
 
     /**
      * @param args the command line arguments

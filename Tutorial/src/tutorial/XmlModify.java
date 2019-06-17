@@ -1,30 +1,4 @@
-/*
-public class XmlModify {
 
-}
-
-[Before]
-		<?xml version="1.0" encoding="UTF-8" standalone="no" ?> 
-		<company>
-		   <staff id="1">
-			<firstname>yong</firstname>
-			<lastname>mook kim</lastname>
-			<nickname>mkyong</nickname>
-			<salary>100000</salary>
-		   </staff>
-		</company>
-
-[After]
-		<?xml version="1.0" encoding="UTF-8" standalone="no" ?> 
-		<company>
-		   <staff id="2">
-			<lastname>mook kim</lastname>
-			<nickname>mkyong</nickname>
-			<salary>2000000</salary> 
-		        <age>28</age> 
-		   </staff>
-		</company>
-*/
 		
 package tutorial;
 
@@ -115,3 +89,31 @@ public class XmlModify {
 	   }
 	}
 }
+
+/*
+public class XmlModify {
+
+}
+
+[Before]
+		<?xml version="1.0" encoding="UTF-8" standalone="no" ?> 
+		<company>
+		   <staff id="1">
+			<firstname>yong</firstname>
+			<lastname>mook kim</lastname>
+			<nickname>mkyong</nickname>
+			<salary>100000</salary>
+		   </staff>
+		</company>
+
+[After]
+		<?xml version="1.0" encoding="UTF-8" standalone="no" ?> 
+		<company>
+		   <staff id="2">
+			<lastname>mook kim</lastname>
+			<nickname>mkyong</nickname>
+			<salary>2000000</salary> 
+		        <age>28</age> 
+		   </staff>
+		</company>
+*/
