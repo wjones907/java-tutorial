@@ -5,5 +5,7 @@
 	<classpathentry kind="src" path="Tutorial/src"/>
 	<classpathentry kind="lib" path="HelloWorldApp/dist/HelloWorldApp.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Wendell/Downloads/json-simple-1.1.jar/json-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Wendell/Downloads/jar_files/httpcore-4.0-alpha5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Wendell/Documents/Ex-Company/10-Cisco/X1-CARBON-LAPTOP/Users/wjones/Downloads/sqldeveloper-4.1.1.19.59-x64/sqldeveloper/modules/org.apache.http.components.httpclient-4.1.2.jar"/>
 	<classpathentry kind="output" path="HelloWorldApp/build/classes"/>
 </classpath>
